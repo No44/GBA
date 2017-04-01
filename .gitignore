@@ -1,0 +1,7 @@
+*.db
+*.opendb
+*.user
+
+
+**/x64/
+.vs/
